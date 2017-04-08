@@ -11,5 +11,5 @@ See the screenshots below:<br />
 <br />
 
 <p align="center">
-  <img src="https://github.com/CodeSpurt/FirebaseCrashReportingExample/blob/master/app/src/main/res/drawable/screenshot_2.png" width="350"/>
+  <img src="https://github.com/CodeSpurt/FirebaseCrashReportingExample/blob/master/app/src/main/res/drawable/screenshot_2.png" width="700"/>
 </p>
