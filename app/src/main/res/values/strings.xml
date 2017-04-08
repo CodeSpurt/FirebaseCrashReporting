@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCrashReportingExample</string>
+
+    <string name="firebase_crash_reporting">Firebase Crash Reporting</string>
+</resources>
