@@ -6,5 +6,10 @@ See the screenshots below:<br />
 
 <p align="center">
   <img src="https://github.com/CodeSpurt/FirebaseCrashReportingExample/blob/master/app/src/main/res/drawable/screenshot_1.png" width="350"/>
+</p>
+
+<br />
+
+<p align="center">
   <img src="https://github.com/CodeSpurt/FirebaseCrashReportingExample/blob/master/app/src/main/res/drawable/screenshot_2.png" width="350"/>
 </p>
